@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+  Info:
+    - Updated for Factorio v1.1
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2020-08-27 14:05
+  Minor Features:
+    - Added setting for type of reveal: Discovered chunks (default) and Generated chunks (old behaviour).
+      Thanks to eradicator for suggesting this!
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-08-05 12:50
+  Minor Features:
+    - Added setting for availability starting point
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020-08-01 21:00
+  Major Features:
+    - Initial release
